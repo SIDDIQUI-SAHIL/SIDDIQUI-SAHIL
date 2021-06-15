@@ -11,9 +11,10 @@ I am Sahil Siddiqui
 Glad to see you here! 🤩
 The green dots on my [Github Profile](https://github.com/SIDDIQUI-SAHIL) represent my journey 🏃‍♂️
 I have Just Started as Software Developer :nerd_face:
+
 Check out [my resume](https://github.com/SIDDIQUI-SAHIL/My_Resume) to know more about me: 🤗
 
-Consider leaving a ⭐ for [Felia ~ An E-commerce Application ~ Built Using MERN(MongoDb,Reactjs,Nodejs,Expressjs)Stack](https://github.com/SIDDIQUI-SAHIL/Felia-An-E-Commerce-Application)built by me! 🤗
+Consider leaving a ⭐ for [Felia ~ An E-commerce Application](https://github.com/SIDDIQUI-SAHIL/Felia-An-E-Commerce-Application) ~ Built Using MERN(MongoDb,Reactjs,Nodejs,Expressjs)Stack by me! 🤗
 
 [Click Here](https://github.com/SIDDIQUI-SAHIL?tab=repositories) to view my other projects.
 
