@@ -8,8 +8,11 @@ Here are some ideas to get you started:
 - 
 -->
 I am Sahil Siddiqui
+
 Glad to see you here! 🤩
+
 The green dots on my [Github Profile](https://github.com/SIDDIQUI-SAHIL) represent my journey 🏃‍♂️
+
 I have Just Started as Software Developer :nerd_face:
 
 Check out [my resume](https://github.com/SIDDIQUI-SAHIL/My_Resume) to know more about me: 🤗
